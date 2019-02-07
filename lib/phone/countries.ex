@@ -157,6 +157,7 @@ defmodule Phone.Countries do
     Phone.RO,
     Phone.RS,
     Phone.RU,
+    Phone.RE,
     Phone.RW,
     Phone.SA,
     Phone.SB,

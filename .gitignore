@@ -4,6 +4,7 @@
 /doc
 /docs
 /deps
+/.elixir_ls
 erl_crash.dump
 *.ez
 mix.lock

@@ -3,7 +3,7 @@ defmodule Phone.BR.MG do
 
   use Helper.Area
 
-  def regex, do: ~r/^(55)(3[1-5|78])([2-5|89].{7}|9[89].{7}|7[78].{6})$/
+  def regex, do: ~r/^(55)(3[1-5|78])([2-5|89].{7,8}|9[89].{7}|7[78].{6})$/
   def area_name, do: "Minas Gerais"
   def area_type, do: "state"
   def area_abbreviation, do: "MG"
